@@ -1,5 +1,5 @@
-DATAHUB_URL=https://polkadot-westend--rpc.datahub.figment.io/apikey/17f931fc3a13bad6bcb8d48c43d85d94
-MNEMONIC='provide rose window tiger note hurt divide alert vocal cloth believe voyage'
-ADDRESS=5GhDUqe4PkSGM4GDjJFF7dD8J1LRMjYMWJbwk73acourfEGN
-PROXY_MNEMONIC='rent plug blouse purity cannon bracket crystal voyage oval milk desk crumble'
+DATAHUB_URL=https://polkadot-westend--rpc.datahub.figment.io/apikey/
+MNEMONIC=''
+ADDRESS=
+PROXY_MNEMONIC=''
 PROXY_ADDRESS=
