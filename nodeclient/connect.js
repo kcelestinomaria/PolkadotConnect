@@ -1,6 +1,6 @@
 const { ApiPromise } = require('@polkadot/api');
 const { HttpProvider } = require('@polkadot/rpc-provider');
-require("dotenv").config({path: '.env'});
+require("dotenv").config({path: './.env'});
 
 const main = async () => {
   const httpProvider = new HttpProvider(process.env.DATAHUB_URL);
